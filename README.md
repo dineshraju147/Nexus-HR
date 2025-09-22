@@ -4,6 +4,7 @@ Nexus HR is an advanced AI-powered chatbot designed to streamline and automate H
 
 The primary use-case demonstrated is the complete automation of the new employee onboarding process, from creating an HR profile to ordering equipment and scheduling meetings.
 
+![Nexus HR Main Poster](resources/poster.png)
 
 
 ## 🚀 Core Features
